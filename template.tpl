@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Insider Register Success Page",
+  "categories": ["CONVERSIONS","ATTRIBUTION","ANALYTICS"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
